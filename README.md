@@ -14,7 +14,7 @@
 
 ## 🌸 Sobre Mim
 
-- 🎓 Designer Gráfico especialista em identidade corporativa e hábil na criação de projetos em design. 
+- 🎓 **Designer Gráfico:** especialista em identidade corporativa e hábil na criação de projetos em design. 
 - 💻 **Desenvolvimento Web:** Estudante de Análise e Desenvolvimento de Sistemas na Unifor, unindo design e tecnologia com foco na experiência do usuário e funcionalidade    dos projetos.
 - ⚡ **Tecnologias:** Atualmente aprimorando conhecimentos em JavaScript, HTML5, CSS3, Java e versionamento com Git & GitHub.
 - 🎯 **Objetivo:** Criar aplicações web funcionais, acessíveis e com visual marcante.
